@@ -19,7 +19,7 @@ Criar um relatório visual no Power BI para analisar o desempenho comercial com 
 
 ## 🖼️ Preview do Dashboard
 
-![Preview do Dashboard](./imagens/Dashboard.png)
+![Preview do Dashboard](./images/Dashboard.png)
 
 ---
 
