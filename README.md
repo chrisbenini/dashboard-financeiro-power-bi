@@ -1,79 +1,111 @@
-# 📊 Dashboard de Vendas, Lucro e Segmentação em Power BI
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:1c1917,25:f59e0b,55:fbbf24,80:facc15,100:fef08a&text=Sales%20Dashboard%20Power%20BI&fontSize=38&fontColor=1c1917&fontAlignY=38&desc=Power%20BI%20%7C%20Data%20Visualization%20%7C%20Business%20Insights&descAlignY=60&descSize=18&descColor=451a03&animation=twinkling" />
+</p>
 
-Projeto desenvolvido em **Power BI** com foco na análise de **vendas, lucro, unidades vendidas e segmentação por país**.  
-O dashboard foi construído como parte de um desafio prático, com personalização visual em **tema escuro** para deixar a apresentação mais moderna, organizada e intuitiva.
+<p align="center">
+  Dashboard desenvolvido em <b>Power BI</b> com foco em <b>análise de vendas</b>, <b>lucro</b>, <b>unidades vendidas</b> e <b>segmentação por país</b>, com visual moderno em tema escuro e identidade em tons amarelos para destacar os indicadores.
+</p>
 
----
-
-## 📌 Objetivo do projeto
-
-Criar um relatório visual no Power BI para analisar o desempenho comercial com base em:
-
-- **Vendas por país**
-- **Unidades vendidas por país**
-- **Lucro por país**
-- **Participação do lucro por segmento**
-- **Distribuição de lucro por segmento**
-
----
-
-## 🖼️ Preview do Dashboard
-
-![Preview do Dashboard](./images/Dashboard.png)
+<p align="center">
+  <img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=000000">
+  <img alt="Data Visualization" src="https://img.shields.io/badge/Data-Visualization-EAB308?style=for-the-badge">
+  <img alt="Business Analysis" src="https://img.shields.io/badge/Business-Analysis-F59E0B?style=for-the-badge">
+  <img alt="KPIs" src="https://img.shields.io/badge/KPIs-Performance-FACC15?style=for-the-badge">
+  <img alt="Portfolio Project" src="https://img.shields.io/badge/Portfolio-Project-CA8A04?style=for-the-badge">
+</p>
 
 ---
 
-## 📊 Visuais desenvolvidos
+## `> overview`
 
-- **Gráfico de pizza**: participação do lucro por segmento
-- **Mapa geográfico**: vendas e unidades vendidas por país
-- **Mapa geográfico**: lucro por país
-- **Treemap**: lucro total por segmento
+Este projeto apresenta um <b>dashboard em Power BI</b> desenvolvido para analisar o desempenho comercial com base em <b>vendas</b>, <b>lucro</b>, <b>unidades vendidas</b> e <b>segmentação por país</b>.
+
+A proposta foi transformar dados em uma visualização clara, objetiva e visualmente mais atrativa, com foco em leitura rápida dos principais indicadores de negócio.
 
 ---
 
-## 🎨 Personalização visual
+## `> dashboard_focus`
 
-O relatório foi customizado com:
+O relatório foi construído para destacar métricas como:
+
+- vendas por país
+- unidades vendidas por país
+- lucro por país
+- participação do lucro por segmento
+- distribuição de lucro por segmento
+
+---
+
+## `> visuals_created`
+
+Os principais visuais desenvolvidos foram:
+
+- gráfico de pizza para participação do lucro por segmento
+- mapa geográfico para vendas e unidades vendidas por país
+- mapa geográfico para lucro por país
+- treemap para lucro total por segmento
+
+---
+
+## `> visual_style`
+
+O dashboard foi personalizado com foco em uma apresentação mais moderna e profissional, utilizando:
 
 - tema escuro
-- cards com bordas arredondadas
-- cabeçalho estilizado
-- paleta de cores em azul, roxo e laranja
-- layout mais limpo e moderno para melhor visualização
+- destaques em amarelo
+- layout mais limpo
+- cards visuais
+- melhor organização dos elementos
+- identidade visual mais forte para portfólio
 
 ---
 
-## 🛠️ Ferramentas utilizadas
+## `> project_structure`
 
-- **Power BI**
+    nome-do-repositorio
+    │
+    ├── BI/
+    │   └── Relatorio_financial.pbix
+    │
+    ├── images/
+    │   └── Dashboard.png
+    │
+    └── README.md
+
+---
+
+## `> preview`
+
+<p align="center">
+  <img src="./images/Dashboard.png" width="900" alt="Dashboard de vendas e lucro no Power BI">
+</p>
+
+---
+
+## `> skills_applied`
+
+- Power BI
 - visualização de dados
-- organização de layout para dashboard
-- formatação de visuais
+- construção de dashboards
+- análise de indicadores
+- organização de layout
+- storytelling visual
+- apresentação de dados para negócio
 
 ---
 
-## 📂 Estrutura do projeto
+## `> project_goal`
 
-- `BI/Relatorio_financial.pbix` → arquivo principal do Power BI
-- `imagens/Dashboard.png` → imagem de visualização do dashboard
-- `README.md` → documentação do projeto
+O objetivo deste projeto foi praticar a criação de dashboards no <b>Power BI</b>, unindo análise de dados, organização visual e apresentação executiva das informações para gerar um material mais forte de estudo e portfólio.
 
 ---
 
-## 🚀 Aprendizados
+## `> author`
 
-Durante o desenvolvimento deste projeto, foi possível praticar:
+**Christopher Benini**
 
-- criação de dashboards no Power BI
-- organização visual de relatórios
-- uso de mapas, pizza e treemap
-- padronização de títulos, cores e layout
-- melhoria da apresentação de dados para portfólio
-
----
-
-## 👤 Autor
-
-**Christopher Benini**  
-Projeto desenvolvido para prática e evolução em **Power BI** e **visualização de dados**.
+<p>
+  <a href="https://github.com/chrisbenini">
+    <img src="https://img.shields.io/badge/GitHub-chrisbenini-CA8A04?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
