@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  Dashboard desenvolvido em <b>Power BI</b> com foco em <b>análise de vendas</b>, <b>lucro</b>, <b>unidades vendidas</b> e <b>segmentação por país</b>, com visual moderno em tema escuro e identidade em tons amarelos para destacar os indicadores.
+  Dashboard desenvolvido em <b>Power BI</b> com foco em <b>análise de vendas</b>, <b>lucro</b>, <b>unidades vendidas</b> e <b>segmentação por país</b>, com visual moderno em tema escuro e identidade em tons laranjas para destacar os indicadores.
 </p>
 
 <p align="center">
