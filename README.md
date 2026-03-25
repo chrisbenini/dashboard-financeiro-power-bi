@@ -62,7 +62,7 @@ O dashboard foi personalizado com foco em uma apresentação mais moderna e prof
 
 ## `> project_structure`
 
-    nome-do-repositorio
+    dashboard-financeiro-power-bi
     │
     ├── BI/
     │   └── Relatorio_financial.pbix
